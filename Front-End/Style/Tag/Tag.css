@@ -1,0 +1,40 @@
+body {
+    background-image: url(../../../Imagens/Wallpaper/Wallpaper.png);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header, section, footer {
+    border: blue solid 3px;
+    border-radius: 11px;
+    margin: 0 10px 0 10px;
+}
+
+li, a {
+    color: white;
+}
+
+legend, h3, h2 {
+    color: white;
+    text-align: center;
+}
+
+th, tr, td {
+    border: 3px solid blue;
+    text-align: center;
+    color: white;
+    height: 30px;
+    width: 1000px;
+    padding: 3px;
+}
+
+fieldset {
+    border: blue solid 2px;
+    border-radius: 20px;
+    margin: 15px 2px 5px 2px;
+}
+
+table {
+    background-color: black;
+    border-collapse: collapse;
+}
